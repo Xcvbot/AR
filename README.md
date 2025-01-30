@@ -15,10 +15,10 @@
      ArfaRotan
     </a>
     <div class="space-x-4">
-     <a class="text-gray-700 hover:text-green-700" href="#">Home</a>
-     <a class="text-gray-700 hover:text-green-700" href="#">Katalog</a>
-     <a class="text-gray-700 hover:text-green-700" href="#">Tentang Kami</a>
-     <a class="text-gray-700 hover:text-green-700" href="#">Kontak</a>
+     <a class="text-gray-700 hover:text-green-700" href="#"></a>
+     <a class="text-gray-700 hover:text-green-700" href="#"></a>
+     <a class="text-gray-700 hover:text-green-700" href="#"></a>
+     <a class="text-gray-700 hover:text-green-700" href="#"></a>
     </div>
    </div>
   </nav>
